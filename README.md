@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     
-</head> Halo! Saya [M. khafi almuzaki ]. Saya seorang [pelajar]
+</head> Halo! Saya [Muh. rizqi ardinasyah ]. Saya seorang [gamer]
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
        
